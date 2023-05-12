@@ -23,15 +23,18 @@
 <h5>젠킨스에 배포 모두 성공했나요? 참 쉽~~~죠잉!!!! 자동빌드 테스트</h5>
 <div>
     <textarea style="width: 100%;height: 120px;" class="form-control" id="msg">
-    석진이는 어디가 그렇게 잘생겼길래 나대는건지 모르겠어!!
+          나 김석진 명하노니 오늘부터 너 내꺼해라!
+        석진이는 어디가 그렇게 잘생겼길래 나대는건지 모르겠어!!
+
+
     </textarea>
 </div>
 <div class="input-group"  style="width:250px;margin-left: 50px;margin-top: 10px;">
     <select id="seltrans" class="form-select">
-        <option value="ko">한국어</option>
         <option value="en">영어</option>
         <option value="fr">불어</option>
         <option value="es">에스빠뇰</option>
+        <option value="ko">한국어</option>
     </select>
     <button type="button" id="btntrans" class="btn btn-outline-danger" >번역하기</button>
 
